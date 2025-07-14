@@ -1,0 +1,1 @@
+0 * * * * /Users/harper/crypto_tracker/venv_crypto/bin/python /Users/harper/crypto_tracker/auto_query.py
